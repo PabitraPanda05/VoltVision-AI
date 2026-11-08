@@ -192,7 +192,7 @@ Developed as a deep learning and computer vision project.
 
 
 
-Developed by Priyadarshani Dash.
+Developed by Pabitra Panda.
 
 
 
