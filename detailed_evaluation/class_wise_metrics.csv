@@ -1,0 +1,19 @@
+﻿class_id,class_name,TP,FP,FN,precision,recall,F1
+1,yoke,0,0,0,0.0,0.0,0.0
+2,yoke suspension,0,0,0,0.0,0.0,0.0
+3,spacer,1,0,0,1.0,1.0,1.0
+4,stockbridge damper,0,0,0,0.0,0.0,0.0
+5,lightning rod shackle,4,1,0,0.8,1.0,0.8889
+6,lightning rod suspension,0,0,0,0.0,0.0,0.0
+7,polymer insulator,2,0,0,1.0,1.0,1.0
+8,glass insulator,15,0,0,1.0,1.0,1.0
+9,tower id plate,0,0,0,0.0,0.0,0.0
+10,vari-grip,0,0,0,0.0,0.0,0.0
+11,polymer insulator lower shackle,0,0,0,0.0,0.0,0.0
+12,polymer insulator upper shackle,0,0,0,0.0,0.0,0.0
+13,polymer insulator tower shackle,0,0,0,0.0,0.0,0.0
+14,glass insulator big shackle,6,0,0,1.0,1.0,1.0
+15,glass insulator small shackle,11,1,0,0.9167,1.0,0.9565
+16,glass insulator tower shackle,11,0,0,1.0,1.0,1.0
+17,spiral damper,0,0,0,0.0,0.0,0.0
+18,sphere,0,0,0,0.0,0.0,0.0

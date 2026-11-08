@@ -1,0 +1,41 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Model checkpoints
+*.pt
+*.pth
+*.onnx
+*.weights
+*.safetensors
+
+# Local database
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Generated files
+outputs/
+*.log
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
